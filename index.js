@@ -32,12 +32,3 @@ console.log("Covert ms to days", convert.days(1000000000));
 console.log("Covert ms to years", convert.years(100000000000));
 console.log("Today's Date", new Date());
 console.log("Days to be waited to celebrate Diwali", days(new Date(2020, 10, 15)));
-
-
-
-
-
-
-
-
-

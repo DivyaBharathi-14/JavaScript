@@ -1,4 +1,3 @@
-
 const message = (name) => {
     if (name == "ping") {
         return "pong";

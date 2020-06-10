@@ -1,4 +1,3 @@
-
 const convertToSec = (milliseconds) => {
     return milliseconds / 1000;
 }
