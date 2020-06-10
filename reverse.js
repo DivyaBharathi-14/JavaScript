@@ -8,4 +8,4 @@ function reverseString(str) {
 }
 
 let name = "divya";
-console.log("Reverse of divya",reverseString(name));
+console.log("Reverse of divya", reverseString(name));
