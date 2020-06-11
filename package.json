@@ -1,0 +1,22 @@
+{
+  "name": "java-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DivyaBharathi-14/JavaScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DivyaBharathi-14/JavaScript/issues"
+  },
+  "homepage": "https://github.com/DivyaBharathi-14/JavaScript#readme",
+  "dependencies": {
+    "testing-lib": "github:DivyaBharathi-14/test_methods-lib"
+  }
+}
