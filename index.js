@@ -16,6 +16,7 @@ const check = require('./node_modules/testing-lib/test');
 
 console.log("Addition of 3,-5,1.11,5 is", add([3, 5, -5, 1.11]));
 console.log(check(add([1,2,3,4]),10));
+console.log(check(add([1,2,3,4]),10));
 console.log("Positive Result", sub(5, 10));
 console.log(check(sub(5,10),5));
 console.log("Multiply 3 with Pi results", multiply(1));
