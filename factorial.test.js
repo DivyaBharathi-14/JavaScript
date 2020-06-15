@@ -6,4 +6,4 @@ describe('factorial of 5 and should be 120')
 
 describe('factorial cannot be negative').expect(factorial(3)).toBeTrue();
 
-describe('factorial result should not be null').expect(factorial()).toBeNull('');
+describe('factorial result should not be null').expect(factorial(4)).toBeNull();

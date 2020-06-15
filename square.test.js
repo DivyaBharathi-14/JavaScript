@@ -5,4 +5,4 @@ describe("Area of square when side is 5 and should retrun 25").
     expect(square(5)).toBe(25);
 
 describe("Area of square when side is 5 and should retrun 25").
-    expect(square(5)).toBeFalse(125);
+    expect(square(5)).toBeFalse();
